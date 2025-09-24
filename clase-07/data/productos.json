@@ -1,0 +1,21 @@
+[
+    {
+        "id": 2,
+        "marca": "Intel",
+        "modelo": "Core i5 12400F",
+        "precio": 18000,
+        "eliminado": true
+    },
+    {
+        "id": 3,
+        "marca": "AMD",
+        "modelo": "Ryzen 7 5800X",
+        "precio": 30000
+    },
+    {
+        "id": 4,
+        "marca": "Intel",
+        "modelo": "Core i7 12700K",
+        "precio": 35000
+    }
+]
